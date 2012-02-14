@@ -17,21 +17,31 @@ using Mogade;
 namespace WindowsPhoneGame135
 {
     /// <summary>
-    /// This is the main type for your game
+    /// 
+    /// 
+    /// Welcome to Escape!
+    /// 
+    /// This game was programmed live during a presentation,
+    /// use it however you like.
+    /// 
+    /// petriw@gmail.com
+    /// 
+    /// 
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+        
         Player player;
         EnemyHandler enemyHandler;
+
         int scoreTimer = 0;
         int highScore = 0;
         bool inMainMenu = true;
         bool nameTyped = false;
         bool showHighscore = true;
         int showHighscoreTimer = 6000;
-
         bool lastRoundWasHighscore = false;
 
         Texture2D floor;
@@ -40,7 +50,6 @@ namespace WindowsPhoneGame135
         SpriteFont font;
 
         List<ScoreboardEntry> sblist = new List<ScoreboardEntry>();
-
 
         public IMogadeClient Mogade { get; private set; }
 
