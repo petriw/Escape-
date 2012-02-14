@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape", "WindowsPhoneGame135\WindowsPhoneGame135\Escape.csproj", "{8A8A2C30-EF90-4382-BC90-0A615A7FF852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeContent", "WindowsPhoneGame135\WindowsPhoneGame135Content\EscapeContent.contentproj", "{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A8A2C30-EF90-4382-BC90-0A615A7FF852}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{8A8A2C30-EF90-4382-BC90-0A615A7FF852}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{8A8A2C30-EF90-4382-BC90-0A615A7FF852}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{8A8A2C30-EF90-4382-BC90-0A615A7FF852}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{8A8A2C30-EF90-4382-BC90-0A615A7FF852}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{8A8A2C30-EF90-4382-BC90-0A615A7FF852}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
