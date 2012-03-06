@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeContent", "WindowsPhoneGame135\WindowsPhoneGame135Content\EscapeContent.contentproj", "{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape360", "WindowsPhoneGame135\WindowsPhoneGame135\Escape360.csproj", "{C00CD388-AED1-4119-9031-5205E858EB66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Phone = Debug|Windows Phone
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Phone = Release|Windows Phone
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Debug|Xbox 360.ActiveCfg = Debug|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{155EE3C7-D124-4EA1-AE2E-63CE3FAFFED0}.Release|Xbox 360.ActiveCfg = Release|Windows Phone
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Mixed Platforms.ActiveCfg = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Mixed Platforms.Build.0 = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Mixed Platforms.Deploy.0 = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Windows Phone.ActiveCfg = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Mixed Platforms.ActiveCfg = Release|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Mixed Platforms.Build.0 = Release|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Mixed Platforms.Deploy.0 = Release|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Windows Phone.ActiveCfg = Release|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{C00CD388-AED1-4119-9031-5205E858EB66}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
